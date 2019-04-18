@@ -1,27 +1,31 @@
 {
-  "name": "burger",
+  "name": "Burger",
   "version": "1.0.0",
-  "description": "Restaurant App",
+  "description": "N.C.B.C. homework assignment week 14, to create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM. Being sure to follow the MVC design pattern; use Node and MySQL to query and route data in the app, and use Handlebars to generate your HTML.",
   "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "method-override": "^3.0.0",
+    "mysql": "^2.17.0",
+    "vary": "^1.1.2"
+  },
+  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DKMitt/burger.git"
+    "url": "git+https://github.com/yohan2127/eat-da-burger.git"
   },
-  "author": "D K Mittlestaedt",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DKMitt/burger/issues"
+    "url": "https://github.com/yohan2127/eat-da-burger/issues"
   },
-  "homepage": "https://github.com/DKMitt/burger#readme",
-  "dependencies": {
-    "body-parser": "^1.17.1",
-    "dotenv": "^7.0.0",
-    "express": "^4.15.2",
-    "express-handlebars": "^3.0.0",
-    "method-override": "^2.3.8",
-    "mysql": "^2.13.0"
-  }
+  "homepage": "https://github.com/yohan2127/eat-da-burger#readme"
 }
