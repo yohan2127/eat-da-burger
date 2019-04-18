@@ -1,5 +1,5 @@
 {
-  "name": "Burger",
+  "name": "eat_Burger",
   "version": "1.0.0",
   "description": "N.C.B.C. homework assignment week 14, to create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM. Being sure to follow the MVC design pattern; use Node and MySQL to query and route data in the app, and use Handlebars to generate your HTML.",
   "main": "server.js",
