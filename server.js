@@ -27,3 +27,4 @@ var routes = require("./controllers/burgers_controller.js");
 app.use("/", routes);
 
 app.listen(port);
+console.log("localhost:3000");
