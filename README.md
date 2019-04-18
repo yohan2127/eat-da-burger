@@ -1,5 +1,5 @@
 # ![Eat-Da-Burger App](public/assets/img/burger_xs.png) Eat-Da-Burger App 
-N.C.B.C. homework assignment week 14, to create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM. Being sure to follow the MVC design pattern; use Node and MySQL to query and route data in the app, and use Handlebars to generate your HTML.
+Homework assignment week 14, to create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM. Being sure to follow the MVC design pattern; use Node and MySQL to query and route data in the app, and use Handlebars to generate your HTML.
 
 
 # ![Eat-Da-Burger App](public/assets/img/etba.jpg)
